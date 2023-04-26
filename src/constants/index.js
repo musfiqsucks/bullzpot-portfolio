@@ -1,0 +1,1 @@
+import {bullzpotlogo} from "../assets";
